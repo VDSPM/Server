@@ -212,7 +212,7 @@
 
 			"meta": {
 
-				"tags": "JioGames",
+				"tags": "Games",
 
 				"categories": [
 
@@ -266,7 +266,7 @@
 
 			"meta": {
 
-				"tags": "jiotv",
+				"tags": "tv",
 
 				"categories": [
 
@@ -316,13 +316,13 @@
 
 			"author": [
 
-				"Jio"
+				"Youtube"
 
 			],
 
 			"maintainer": [
 
-				"Jio"
+				"Youtube"
 
 			],
 
@@ -518,7 +518,7 @@
 
 			"meta": {
 
-				"tags": "jionews",
+				"tags": "news",
 
 				"categories": [
 
@@ -578,7 +578,7 @@
 
 			"meta": {
 
-				"tags": "myjio",
+				"tags": "my",
 
 				"categories": [
 
@@ -638,7 +638,7 @@
 
 			"meta": {
 
-				"tags": "jiopay",
+				"tags": "pay",
 
 				"categories": [
 
