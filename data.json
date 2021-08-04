@@ -1,0 +1,959 @@
+{
+
+	"$schema": "./schema.json",
+
+	"version": 2,
+
+	"generated_at": 1627510515628,
+
+	"categories": {
+
+		"games": {
+
+			"name": "Games",
+
+			"description": "Test your finger speed.",
+
+			"icon": "fas fa-gamepad",
+
+			"locales": [
+
+				{
+
+					"en-IN": "Games"
+
+				}
+
+			]
+
+		},
+
+		"entertainment": {
+
+			"name": "Entertainment",
+
+			"description": "LIVE: Cricket, TV Shows, News, Movies, Entertainment, Religious & more.",
+
+			"icon": " fas fa-film",
+
+			"locales": [
+
+				{
+
+					"en-IN": "Entertainment"
+
+				}
+
+			]
+
+		},
+
+		"social": {
+
+			"name": "Social",
+
+			"description": "social apps, include communication and interactive tools often based on the Internet.",
+
+			"icon": "fas fa-users",
+
+			"locales": [
+
+				{
+
+					"en-IN": "Social"
+
+				}
+
+			]
+
+		},
+
+		"news": {
+
+			"name": "News",
+
+			"description": "Apps that provide access to news sources.",
+
+			"icon": "fas fa-newspapper",
+
+			"locales": [
+
+				{
+
+					"en-IN": "News"
+
+				}
+
+			]
+
+		},
+
+		"utilities": {
+
+			"name": "Utilities",
+
+			"description": "Utilities to help with daily functions.",
+
+			"icon": "fas fa-wrench",
+
+			"locales": [
+
+				{
+
+					"en-IN": "Tools"
+
+				}
+
+			]
+
+		},
+
+		"homescreen": {
+
+			"name": "Homescreen",
+
+			"description": "Homescreens for JioPhone.",
+
+			"icon": "fas fa-tshirt",
+
+			"locales": [
+
+				{
+
+					"en-IN": "Topics"
+
+				}
+
+			]
+
+		},
+
+		"health": {
+
+			"name": "Health",
+
+			"icon": "fas fa-file-medical",
+
+			"locales": [
+
+				{
+
+					"en-IN": "Health"
+
+				}
+
+			]
+
+		},
+
+		"education": {
+
+			"name": "Education",
+
+			"icon": "fas fa-book-reader",
+
+			"locales": [
+
+				{
+
+					"en-IN": "Education"
+
+				}
+
+			]
+
+		}
+
+	},
+
+	"apps": [
+
+		{
+
+			"name": "JioGames",
+
+			"description": "Have fun by playing the exciting games",
+
+			"icon": "https://vdspm.github.io/Server/icons/jiogames/jiogames.png",
+
+			"screenshots": [],
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/JioGames.zip",
+
+				"version": "1.4.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"dependencies": [],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "JioGames",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jiogames"
+
+		},
+
+		{
+
+			"name": "JioTV",
+
+			"description": "JioTV provides 700+ Live TV channels and 7 days of Catch Up. It has useful features like hotkeys support for accessing various screens of the app and channels, marking channels and programs as favourites, search for channels, current, past and future programs.",
+
+			"icon": "https://vdspm.github.io/Server/icons/jiotv/jiotv.png",
+
+			"screenshots": [],
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/JioTV.zip",
+
+				"version": "1.6.6.4"
+
+			},
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"dependencies": [],
+
+			"has_tracking": true,
+
+			"has_ads": false,
+
+			"meta": {
+
+				"tags": "jiotv",
+
+				"categories": [
+
+					"entertainment"
+
+				]
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"fromstore": true,
+
+			"slug": "jiotv"
+
+		},
+		
+        {
+
+			"name": "YouTube",
+
+			"description": "Watch, stream and discover what the world is watching with YouTube. YouTube gives everyone a voice and a platform to discover the world. Explore brand new content, music, news and more with the official YouTube app.",
+
+			"icon": "https://vdspm.github.io/Server/icons/youtube/youtube.png",
+
+			"screenshots": [],
+
+			"website": "https://www.youtube.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Youtube.zip",
+
+				"version": "1.92.53"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"dependencies": [],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "youtube",
+
+				"categories": [
+
+					"entertainment"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "youtube"
+
+		},
+		
+       {
+
+			"name": "WhatsApp",
+
+			"description": "W﻿h﻿a﻿t﻿s﻿A﻿p﻿p Messenger is a FREE messaging app available for JioPhone and other smartphones. W﻿h﻿a﻿t﻿s﻿A﻿p﻿p uses your phone's Internet connection (4G or Wi-Fi, as available) to let you message friends and family. Switch from SMS to W﻿h﻿a﻿t﻿s﻿A﻿p﻿p to send and receive messages, photos, videos, and Voice Messages.\n\n*Data charges may apply. Contact your provider for details.",
+
+			"icon": "https://vdspm.github.io/Server/icons/whatsapp/whatsapp.png",
+
+			"screenshots": [],
+
+			"website": "https://www.whatsapp.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Whatsapp.zip",
+
+				"version": "2.2118.12.1"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"WhatsApp Inc"
+
+			],
+
+			"maintainer": [
+
+				"WhatsApp Inc"
+
+			],
+
+			"dependencies": [],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "whatsapp",
+
+				"categories": [
+
+					"social"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "whatsapp"
+
+		},
+		
+       {
+
+			"name": "Facebook",
+
+			"description": "Connect and keep up with your friends.",
+
+			"icon": "https://vdspm.github.io/Server/icons/facebook/facebook.png",
+
+			"screenshots": [],
+
+			"website": "https://m.facebook.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Facebook.zip",
+
+				"version": "2.0.3.41"
+
+			},
+
+			"locales": [
+
+				"Facebook"
+
+			],
+
+			"author": [
+
+				"Facebook"
+
+			],
+
+			"maintainer": [
+
+				"Facebook"
+
+			],
+
+			"dependencies": [],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "facebook",
+
+				"categories": [
+
+					"social"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "facebook"
+
+		},
+		
+       {
+
+			"name": "JioNews",
+
+			"description": "JioNews is the revolutionary digital product. Your one stop solution for Breaking News, Live TV, Videos, Magazines, Newspapers, & much more in 10+ Indian Languages.",
+
+			"icon": "https://vdspm.github.io/Server/icons/jionews/jionews.png",
+
+			"screenshots": [],
+
+			"website": "https://www.jio.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/JioNews.zip",
+
+				"version": "3.1.5.3"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "jionews",
+
+				"categories": [
+
+					"news"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jionews"
+
+		},
+		
+       {
+
+			"name": "MyJio",
+
+			"description": "Get MyJio app to subscribe to exciting Jio offers. Recharge your Jio number, view real time balance, link & manage multiple accounts and much more!",
+
+			"icon": "https://vdspm.github.io/Server/icons/myjio/myjio.png",
+
+			"screenshots": [],
+
+			"website": "https://www.jio.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/MyJio.zip",
+
+				"version": "2.1.31.0"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "myjio",
+
+				"categories": [
+
+					"utilities"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "myjio"
+
+		},
+		
+       {
+
+			"name": "JioPay",
+
+			"description": "Use JioPay to make payment securely from Jiophone",
+
+			"icon": "https://vdspm.github.io/Server/icons/jiopay/jiopay.png",
+
+			"screenshots": [],
+
+			"website": "https://www.jio.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Jiopay.zip",
+
+				"version": "2.4.4.4"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "jiopay",
+
+				"categories": [
+
+					"utilities"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jiopay"
+
+		},
+
+		{
+
+			"name": "Intent",
+
+			"description": "Intent Toolbox",
+
+			"icon": "https://storedb.opengiraffes.top/icons/intent.png",
+
+			"screenshots": [],
+
+			"website": "https://github.com/Lcsunm/Intent-KaiOS",
+
+			"git_repo": "https://github.com/Lcsunm/Intent-KaiOS",
+
+			"download": {
+
+				"url": "https://git.yumenaka.net/https://github.com/Lcsunm/Intent-KaiOS/releases/download/v0.1.3/intent-omnisd-nightly.zip",
+
+				"version": "0.1.3"
+
+			},
+
+			"type": "certified",
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"license": "MIT",
+
+			"author": [
+
+				"Lcsunm"
+
+			],
+
+			"maintainer": [
+
+				"Lcsunm"
+
+			],
+
+			"dependencies": [
+
+				{
+
+					"name": "Test",
+
+					"url": "https://github.com/Lcsunm/Intent-KaiOS"
+
+				}
+
+			],
+
+			"donation": null,
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "intent",
+
+				"categories": [
+
+					"utilities"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "intent"
+
+		},
+
+		{
+
+			"name": "KaiAuth",
+
+			"description": "Simple Google Authenticator alternative",
+
+			"icon": "https://storedb.opengiraffes.top/icons/kaiauth.png",
+
+			"screenshots": [
+
+				"https://storedb.opengiraffes.top/icons/kaiauth/screenshot0.png",
+
+				"https://storedb.opengiraffes.top/icons/kaiauth/screenshot1.png",
+
+				"https://storedb.opengiraffes.top/icons/kaiauth/screenshot2.png"
+
+			],
+
+			"website": "https://kaiauth.zjyl1994.com",
+
+			"git_repo": "https://github.com/zjyl1994/KaiAuth",
+
+			"download": {
+
+				"url": "https://git.yumenaka.net/https://github.com/zjyl1994/KaiAuth/releases/download/v1.1.1/kaiauth-v1.1.1-omnisd.zip",
+
+				"version": "1.1.1"
+
+			},
+
+			"type": "privileged",
+
+			"locales": [
+
+				"中文(简体)",
+
+				"中文(繁體)",
+
+				"English"
+
+			],
+
+			"license": "MIT",
+
+			"author": [
+
+				"zjyl1994 <me@zjyl1994.com>"
+
+			],
+
+			"maintainer": [
+
+				"zjyl1994 <me@zjyl1994.com>"
+
+			],
+
+			"dependencies": [],
+
+			"donation": "https://www.buymeacoffee.com/zjyl1994",
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "2fa; totp; authenticator",
+
+				"categories": [
+
+					"utilities"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "kaiauth"
+
+		},
+
+		{
+
+			"name": "ThemeWhite-KaiOS",
+
+			"description": "KaiOS 主题 ThemeWhite.",
+
+			"icon": "https://storedb.opengiraffes.top/icons/theme-white.png",
+
+			"website": "https://github.com/Lcsunm/ThemeWhite-KaiOS",
+
+			"git_repo": "https://github.com/Lcsunm/ThemeWhite-KaiOS",
+
+			"download": {
+
+				"url": "https://git.yumenaka.net/https://github.com/Lcsunm/ThemeWhite-KaiOS/releases/download/t0.1.3/themewhite-omnisd-nightly.zip",
+
+				"version": "0.1.3"
+
+			},
+
+			"type": "privileged",
+
+			"locales": [
+
+				"中文(简体)"
+
+			],
+
+			"license": "MIT",
+
+			"author": [
+
+				"Lcsunm"
+
+			],
+
+			"maintainer": [
+
+				"Lcsunm"
+
+			],
+
+			"dependencies": [
+
+				{
+
+					"name": "Intent",
+
+					"url": "https://store.opengiraffes.top/#intent"
+
+				}
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "theme",
+
+				"categories": [
+
+					"homescreen"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "theme-white",
+
+			"screenshots": []
+
+		},
+		
+       {
+
+			"name": "PDFViewer",
+
+			"description": "This application lets you read any PDF document stored on your device memory or SD Card.",
+
+			"icon": "https://vdspm.github.io/Server/icons/pdfviewer/pdfviewer.png",
+
+			"screenshots": [],
+
+			"website": "https://www.jio.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/PDFViewer.zip",
+
+				"version": "1.0.9.1"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "pdfviewer",
+
+				"categories": [
+
+					"education"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "pdfviewer"
+
+		}
+		
+	]
+
+}
