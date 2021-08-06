@@ -888,6 +888,140 @@
 
 		},
 
+                {
+
+			"name": "Android Launcher",
+
+			"description": "Gaia Launcher",
+
+			"icon": "https://vdspm.github.io/Server/icons/Android Launcher/vertical_84.png",
+
+			"screenshots": [
+
+				"https://vdspm.github.io/Server/icons/Android Launcher/screenshot-1.png",
+
+				"https://vdspm.github.io/Server/icons/Android Launcher/screenshot-2.png"
+
+			],
+
+			"website": "https://mctechyt.blogspot.com/?m=1",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Android Launcher.zip",
+
+				"version": "2.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"maintainer": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "android launcher",
+
+				"categories": [
+
+					"homescreen"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "android launcher"
+
+		},
+
+       {
+
+			"name": "Sidemenu Launcher",
+
+			"description": "Gaia Launcher",
+
+			"icon": "https://vdspm.github.io/Server/icons/sidemenu Launcher/vertical_126.png",
+
+			"screenshots": [
+
+				"https://vdspm.github.io/Server/icons/sidemenu Launcher/screenshot-1.png",
+
+				"https://vdspm.github.io/Server/icons/sidemenu Launcher/screenshot-2.png",
+				
+				"https://vdspm.github.io/Server/icons/sidemenu Launcher/screenshot-3.png"
+
+			],
+
+			"website": "https://mctechyt.blogspot.com/?m=1",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/sidemenu Launcher.zip",
+
+				"version": "2.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"maintainer": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "sidemenu",
+
+				"categories": [
+
+					"homescreen"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "sidemenu launcher"
+
+		},
+
 		{
 
 			"name": "ThemeWhite-KaiOS",
