@@ -816,9 +816,9 @@
 
 		},
 
-                {
+       {
 
-			"name": "Homescreen",
+			"name": "F320b Homescreen",
 
 			"description": "F320b Launcher Homescreen For Other Jio Phone Models By Mobile And Computer Tech Youtube channel",
 
@@ -826,7 +826,7 @@
 
 			"screenshots": [
 
-				"https://vdspm.github.io/Server/icons/F320B Homescreen/screenshot-1.gif",
+				"https://vdspm.github.io/Server/icons/F320B Homescreen/screenshot-1.png",
 
 				"https://vdspm.github.io/Server/icons/F320B Homescreen/screenshot-2.png",
 
@@ -851,14 +851,13 @@
 			"locales": [
 
 				"English"
-                       ],
+           ],
 
 			"author": [
 
-				"Mobile and computer Tech"
+				"Jio"
 
-
-		       ],
+			],
 
 			"maintainer": [
 
@@ -887,8 +886,76 @@
 			"slug": "homescreen"
 
 		},
+		
+       {
 
-                {
+			"name": "Alcatel Launcher",
+
+			"description": "Alcatel Launcher Homescreen For Jio Phone and KaiOS Devices By Mobile And Computer Tech Youtube channel",
+
+			"icon": "https://vdspm.github.io/Server/icons/Alcatel Launcher/vertical_84.png",
+
+			"screenshots": [
+
+				"https://vdspm.github.io/Server/icons/Alcatel Launcher/screenshot-1.png",
+
+				"https://vdspm.github.io/Server/icons/Alcatel Launcher/screenshot-2.png",
+				
+				"https://vdspm.github.io/Server/icons/Alcatel Launcher/screenshot-3.png"
+
+			],
+
+			"website": "https://mctechyt.blogspot.com/?m=1",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Alcatel Launcher.zip",
+
+				"version": "2.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"maintainer": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "alcatel launcher",
+
+				"categories": [
+
+					"homescreen"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "alcatel launcher"
+
+		},
+
+       {
 
 			"name": "Android Launcher",
 
@@ -951,6 +1018,142 @@
 			"fromstore": false,
 
 			"slug": "android launcher"
+
+		},
+
+       {
+
+			"name": "Shotcuts Launcher",
+
+			"description": "Gaia Shortcuts Launcher",
+
+			"icon": "https://vdspm.github.io/Server/icons/New Shotcuts Launcher/vertical_84.png",
+
+			"screenshots": [
+
+				"https://vdspm.github.io/Server/icons/New Shotcuts Launcher/screenshot-1.png",
+
+				"https://vdspm.github.io/Server/icons/New Shotcuts Launcher/screenshot-2.png",
+				
+				"https://vdspm.github.io/Server/icons/New Shotcuts Launcher/screenshot-3.png"
+
+			],
+
+			"website": "https://mctechyt.blogspot.com/?m=1",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/.zip",
+
+				"version": "2.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"maintainer": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "shortcuts launcher",
+
+				"categories": [
+
+					"homescreen"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "shortcuts launcher"
+
+		},
+		
+       {
+
+			"name": "Android Homescreen",
+
+			"description": "Gaia Android Homescreen",
+
+			"icon": "https://vdspm.github.io/Server/icons/Android Homescreen/vertical_126.png",
+
+			"screenshots": [
+
+				"https://vdspm.github.io/Server/icons/Android Homescreen/screenshot-1.png",
+
+				"https://vdspm.github.io/Server/icons/Android Homescreen/screenshot-2.png",
+				
+				"https://vdspm.github.io/Server/icons/Android Homescreen/screenshot-3.png"
+
+			],
+
+			"website": "https://mctechyt.blogspot.com/?m=1",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Android Homescreen.zip",
+
+				"version": "2.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"maintainer": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "android homescreen",
+
+				"categories": [
+
+					"homescreen"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "android homescreen"
 
 		},
 
@@ -1022,6 +1225,209 @@
 
 		},
 
+       {
+
+			"name": "Launcher 5×4",
+
+			"description": "Gaia Launcher 5×4",
+
+			"icon": "https://vdspm.github.io/Server/Launcher/vertical_126.png",
+
+			"screenshots": [
+
+				"https://vdspm.github.io/Server/icons/Launcher/screenshot-1.png",
+
+				"https://vdspm.github.io/Server/icons/Launcher/screenshot-2.png",
+				
+				"https://vdspm.github.io/Server/icons/Launcher/screenshot-3.png"
+
+			],
+
+			"website": "https://mctechyt.blogspot.com/?m=1",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Launcher 5×4.zip",
+
+				"version": "2.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"maintainer": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "launcher 5×4",
+
+				"categories": [
+
+					"homescreen"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "launcher 5×4"
+
+		},
+
+       {
+
+			"name": "Launcher 4×4",
+
+			"description": "Gaia Launcher 4×4",
+
+			"icon": "https://vdspm.github.io/Server/icons/Homescreen/vertical_126.png",
+
+			"screenshots": [
+
+				"https://vdspm.github.io/Server/icons/Homescreen/screenshot-1.png",
+
+				"https://vdspm.github.io/Server/icons/Homescreen/screenshot-2.png",
+				
+				"https://vdspm.github.io/Server/icons/Homescreen/screenshot-3.png"
+
+			],
+
+			"website": "https://mctechyt.blogspot.com/?m=1",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Launcher 4×4.zip",
+
+				"version": "2.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"maintainer": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "launcher 4×4",
+
+				"categories": [
+
+					"homescreen"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "launcher 4×4"
+
+		},
+
+       {
+
+			"name": "Custom Launcher",
+
+			"description": "Gaia Custom Launcher",
+
+			"icon": "https://vdspm.github.io/Server/icons/Custom Launcher/vertical_126.png",
+
+			"screenshots": [
+
+				"https://vdspm.github.io/Server/icons/Custom Launcher/screenshot-1.png",
+
+				"https://vdspm.github.io/Server/icons/Custom Launcher/screenshot-2.png",
+				
+				"https://vdspm.github.io/Server/icons/Custom Launcher/screenshot-3.png"
+
+			],
+
+			"website": "https://mctechyt.blogspot.com/?m=1",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Custom Launcher.zip",
+
+				"version": "2.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"maintainer": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "custom launcher",
+
+				"categories": [
+
+					"homescreen"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "custom launcher"
+
+		},
 		{
 
 			"name": "ThemeWhite-KaiOS",
