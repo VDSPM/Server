@@ -1159,9 +1159,9 @@
 
 {
 
-			"name": "Launcher 3×4",
+			"name": "Launcher 3x4",
 
-			"description": "Gaia Launcher 3×4",
+			"description": "Gaia Launcher 3x4",
 
 			"icon": "https://vdspm.github.io/Server/icons/Homescreen 3x4/vertical_84.png",
 
@@ -1211,7 +1211,7 @@
 
 			"meta": {
 
-				"tags": "launcher 5×4",
+				"tags": "launcher 3x4",
 
 				"categories": [
 
@@ -1297,9 +1297,9 @@
 
        {
 
-			"name": "Launcher 5×4",
+			"name": "Launcher 5x4",
 
-			"description": "Gaia Launcher 5×4",
+			"description": "Gaia Launcher 5x4",
 
 			"icon": "https://vdspm.github.io/Server/icons/Launcher/vertical_84.png",
 
@@ -1347,7 +1347,7 @@
 
 			"meta": {
 
-				"tags": "launcher 5×4",
+				"tags": "launcher 5x4",
 
 				"categories": [
 
@@ -1365,9 +1365,9 @@
 
        {
 
-			"name": "Launcher 4×4",
+			"name": "Launcher 4x4",
 
-			"description": "Gaia Launcher 4×4",
+			"description": "Gaia Launcher 4x4",
 
 			"icon": "https://vdspm.github.io/Server/icons/Homescreen/vertical_126.png",
 
@@ -1415,7 +1415,7 @@
 
 			"meta": {
 
-				"tags": "launcher 4×4",
+				"tags": "launcher 4x4",
 
 				"categories": [
 
