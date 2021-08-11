@@ -1295,6 +1295,76 @@
 
        {
 
+			"name": "Launcher 3×4",
+
+			"description": "Gaia Launcher 3×4",
+
+			"icon": "https://vdspm.github.io/Server/Homescreen 3x4/vertical_84.png",
+
+			"screenshots": [
+
+				"https://vdspm.github.io/Server/icons/Homescreen 3x4/screenshot-1.png",
+
+				"https://vdspm.github.io/Server/icons/Homescreen 3x4/screenshot-2.png",
+				
+				"https://vdspm.github.io/Server/icons/Homescreen 3x4/screenshot-3.png",
+				
+				"https://vdspm.github.io/Server/icons/Homescreen 3x4/screenshot-4.png"
+
+			],
+
+			"website": "https://mctechyt.blogspot.com/?m=1",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Launcher 3×4.zip",
+
+				"version": "2.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"maintainer": [
+
+				"Mobile and computer Tech"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "launcher 5×4",
+
+				"categories": [
+
+					"homescreen"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "launcher 3×4"
+
+		},
+
+       {
+
 			"name": "Launcher 4×4",
 
 			"description": "Gaia Launcher 4×4",
