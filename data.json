@@ -1273,7 +1273,7 @@
 
 			],
 
-			"has_ads": true,
+			"has_ads": false,
 
 			"has_tracking": false,
 
@@ -1443,9 +1443,7 @@
 
 				"https://vdspm.github.io/Server/icons/Custom Launcher/screenshot-1.png",
 
-				"https://vdspm.github.io/Server/icons/Custom Launcher/screenshot-2.png",
-				
-				"https://vdspm.github.io/Server/icons/Custom Launcher/screenshot-3.png"
+				"https://vdspm.github.io/Server/icons/Custom Launcher/screenshot-2.png"
 
 			],
 
