@@ -8,6 +8,27 @@
 
 	"categories": {
 
+                  "all": {
+
+			"name": "All",
+
+			"description": "All apps view on this category",
+
+			"icon": "fas fa-cloud-meatball",
+
+			"locales": [
+
+				{
+
+					"en-IN": "All"
+
+				}
+
+			]
+
+		},
+
+
 		"games": {
 
 			"name": "Games",
@@ -216,7 +237,9 @@
 
 				"categories": [
 
-					"games"
+					"all",
+
+                                        "games"
 
 				]
 
