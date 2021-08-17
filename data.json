@@ -251,6 +251,1446 @@
 
 		},
 
+       {
+
+			"name": "Danger Dash",
+
+			"description": "Danger Dash",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/danger dash.png",
+
+			"screenshots": [],
+
+			"website": "https://www.gameloft.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Danger Dash.zip",
+
+				"version": "2.5"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Gameloft"
+
+			],
+
+			"maintainer": [
+
+				"Gameloft"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "danger dash",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "danger dash"
+
+		},
+
+       {
+
+			"name": "Nitro Street Run 2",
+
+			"description": "Nitro Street Run 2",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/nitro street run 2.png",
+
+			"screenshots": [],
+
+			"website": "https://www.gameloft.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Nitro Street Run 2.zip",
+
+				"version": "2.5"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Gameloft"
+
+			],
+
+			"maintainer": [
+
+				"Gameloft"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "nitro street run 2",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "nitro street run 2"
+
+		},
+
+       {
+
+			"name": "Dont Drop",
+
+			"description": "A classic egg toss game from your childhood memories is available in your phones.Aim properly and be patient to clear all the stages in the game.",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/dont drop.png",
+
+			"screenshots": [],
+
+			"website": "http://www.mobi2fun.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Dont Drop.zip",
+
+				"version": "1.0.3"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Mobi2fun"
+
+			],
+
+			"maintainer": [
+
+				"Mobi2fun"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "dont drop",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "dont drop"
+
+		},
+
+       {
+
+			"name": "Castle Of Magic",
+
+			"description": "Castle Of Magic",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/castle of magic.png",
+
+			"screenshots": [],
+
+			"website": "",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Castle Of Magic.zip",
+
+				"version": "2.5"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Gameloft"
+
+			],
+
+			"maintainer": [
+
+				"Gameloft"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "castle of magic",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "castle of magic"
+
+		},
+
+       {
+
+			"name": "Talking Hamster",
+
+			"description": "Hamster",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/talking hamstar.png",
+
+			"screenshots": [],
+
+			"website": "http://valesios.github.io",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Talking Hamster.zip",
+
+				"version": "2.5"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Valesios"
+
+			],
+
+			"maintainer": [
+
+				"Valesios"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "talking hamster",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "talking hamster"
+
+		},
+
+       {
+
+			"name": "Hungry Birds",
+
+			"description": "Move around using Left/4 or Right/6 and make sure to fly by pressing Middle/5, else you will start falling. Your goal is to collect fruits while avoiding the enemies!",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/hungry birds.png",
+
+			"screenshots": [],
+
+			"website": "http://www.blacksheepgames.gr",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Hungry Birds.zip",
+
+				"version": "1.0.0"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Black Sheep Games"
+
+			],
+
+			"maintainer": [
+
+				"Black Sheep Games"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "hungry birds",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "hungry birds"
+
+		},
+
+       {
+
+			"name": "Snake",
+
+			"description": "Snake Classic",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/icon-128.png",
+
+			"screenshots": [],
+
+			"website": "https://www.gameloft.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Snake.zip",
+
+				"version": "2.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"snake"
+
+			],
+
+			"maintainer": [
+
+				"snake"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "snake",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "snake"
+
+		},
+
+       {
+
+			"name": "Quick Racing",
+
+			"description": "Hammerplay's Quick Racing",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/quick racing.png",
+
+			"screenshots": [],
+
+			"website": "http://hammerplay.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Quick Racing.zip",
+
+				"version": "1.0.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Hammerplay Studios"
+
+			],
+
+			"maintainer": [
+
+				"Hammerplay Studios"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "quick racing",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "quick racing"
+
+		},
+
+       {
+
+			"name": "Spin The Wheel",
+
+			"description": "Spin the wheel to win cash prizes.  You only have 5 spins to collect as much cash as possible.",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/spin the wheel.png",
+
+			"screenshots": [],
+
+			"website": "http://marketjs.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Spin The Wheel.zip",
+
+				"version": "1.0.1"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"MarketJS"
+
+			],
+
+			"maintainer": [
+
+				"MarketJS"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "spin the wheel",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "spin the wheel"
+
+		},
+
+       {
+
+			"name": "Moto Racing 3D",
+
+			"description": "Defeat the traffic, ride your bike to challenge everyone in this endless Bike Racing game.",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/moto racing 3d.png",
+
+			"screenshots": [],
+
+			"website": "http://www.renderedideas.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Moto Racing 3D.zip",
+
+				"version": "1.1.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Rendered Ideas"
+
+			],
+
+			"maintainer": [
+
+				"Rendered Ideas"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "moto racing 3d",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "moto racing 3d"
+
+		},
+
+       {
+
+			"name": "Candy Jam",
+
+			"description": "Select and move the candy to switch positions. Match 3 or more of the same candy to score points.",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/candy jam.png",
+
+			"screenshots": [],
+
+			"website": "http://marketjs.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Candy Jam.zip",
+
+				"version": "1.0.7"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"MarketJS"
+
+			],
+
+			"maintainer": [
+
+				"MarketJS"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "candy jam",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "candy jam"
+
+		},
+
+       {
+
+			"name": "NitroStreet",
+
+			"description": "Experience the intense rivalry of drag-racing competitions. Controls: Use D-Pad OK/Up or press 5/2 to start the race and shift gears at the right moment to get ahead of opponents.",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/nitrostreet.png",
+
+			"screenshots": [],
+
+			"website": "https://www.gameloft.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/NitroStreet.zip",
+
+				"version": "1.0.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Gameloft"
+
+			],
+
+			"maintainer": [
+
+				"Gameloft"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "nitrostreet",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "nitrostreet"
+
+		},
+
+       {
+
+			"name": "Flexi Snake",
+
+			"description": "It’s like the old-school snake but super flexi! If you're a snake game fan, this game will delight you!",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/flexi snake.png",
+
+			"screenshots": [],
+
+			"website": "https://www.gamezop.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Flexi Snake.zip",
+
+				"version": "1.3.3"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Gamezop"
+
+			],
+
+			"maintainer": [
+
+				"Gamezop"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "flexi snake",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "flexi snake"
+
+		},
+
+       {
+
+			"name": "Dino Run",
+
+			"description": "Run from the volcano and don't get hit by the falling lava rocks!  Save the dino eggs for points.  Score big by eating some ham.",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/dino run.png",
+
+			"screenshots": [],
+
+			"website": "https://www.taaragames.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Dino Run.zip",
+
+				"version": "1.0.0"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Taara Games"
+
+			],
+
+			"maintainer": [
+
+				"Taara Games"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "dino run",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "dino run"
+
+		},
+
+       {
+
+			"name": "Classic Dino Run",
+
+			"description": "A Classic Retro Style Dino Run Game",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/classic dino run.png",
+
+			"screenshots": [],
+
+			"website": "dmytro.tomaylyATgmail.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Classic Dino Run.zip",
+
+				"version": "1.0.7"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Nano Apps"
+
+			],
+
+			"maintainer": [
+
+				"Nano Apps"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "classic dino run",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "classic dino run"
+
+		},
+
+       {
+
+			"name": "Knife Shooter",
+
+			"description": "Await your chance to aim all the knives onto the board. There are 15 levels, and each level gets harder with other objects and obstacles added",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/knife shooter.png",
+
+			"screenshots": [],
+
+			"website": "https://www.eyepax.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Knife Shooter.zip",
+
+				"version": "1.0.1"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Eyepax"
+
+			],
+
+			"maintainer": [
+
+				"Eyepax"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "knife shooter",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "knife shooter"
+
+		},
+
+       {
+
+			"name": "Car Parking 3D",
+
+			"description": "Car parking 3D is driving simulation game with realistic graphics and sounds.",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/car parking 3d.png",
+
+			"screenshots": [],
+
+			"website": "http://www.renderedideas.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Car Parking 3D.zip",
+
+				"version": "1.0.4"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Rendered Ideas"
+
+			],
+
+			"maintainer": [
+
+				"Rendered Ideas"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "car parking 3d",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "car parking 3d"
+
+		},
+
+       {
+
+			"name": "Highway Racing 3D",
+
+			"description": "Defeat the traffic, ride your car to challenge everyone in this endless Car Racing game.",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/highway racing 3d.png",
+
+			"screenshots": [],
+
+			"website": "http://www.renderedideas.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Highway Racing 3D.zip",
+
+				"version": "1.0.1"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Rendered Ideas"
+
+			],
+
+			"maintainer": [
+
+				"Rendered Ideas"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "highway racing 3d",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "highway racing 3d"
+
+		},
+
+       {
+
+			"name": "Yeti Fishing",
+
+			"description": "A fun fishing game",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/yeti fishing.png",
+
+			"screenshots": [],
+
+			"website": "http://www.migoistudios.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Yeti Fishing.zip",
+
+				"version": "1.1.1"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Migoi Studios"
+
+			],
+
+			"maintainer": [
+
+				"Migoi Studios"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "yeti fishing",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "yeti fishing"
+
+		},
+
+       {
+
+			"name": "Traffic Highway Hawk",
+
+			"description": "Get set ready to start a true Traffic racing challenge. Thrill the entire track and become a actual highway legend with a brand new endless racing game.",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/traffic highway hawk.png",
+
+			"screenshots": [],
+
+			"website": "http://gameneeti.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Traffic Highway Hawk.zip",
+
+				"version": "1.0.1"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Game Neeti"
+
+			],
+
+			"maintainer": [
+
+				"Game Neeti"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "traffic highway hawk",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "traffic highway hawk"
+
+		},
+
+       {
+
+			"name": "Flappy Unicorn",
+
+			"description": "Ever wanted to be a magical unicorn? Flap through the rainbow sky, avoid the crystal pillars. How many obstacles can you clear in this retro pixel arcade game?",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/flappy unicorn.png",
+
+			"screenshots": [],
+
+			"website": "http://marketjs.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Flappy Unicorn.zip",
+
+				"version": "1.0.4"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"MarketJS"
+
+			],
+
+			"maintainer": [
+
+				"MarketJS"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "flappy unicorn",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "flappy unicorn"
+
+		},
+
+       {
+
+			"name": "Sliding Puzzle",
+
+			"description": "Sliding Puzzle is a classic but challenging puzzle game where you have to slide the tiles to reassemble a picture, by selecting the block you want to move Have fun and increase your IQ",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/sliding puzzle.png",
+
+			"screenshots": [],
+
+			"website": "https://cypien.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Sliding Puzzle.zip",
+
+				"version": "1.0.0"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Cypien"
+
+			],
+
+			"maintainer": [
+
+				"Cypien"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "sliding puzzle",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "sliding puzzle"
+
+	    },
+
+       {
+
+			"name": "Drawsum",
+
+			"description": "Connect numbers to challenge your brain",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/drawsum.png",
+
+			"screenshots": [],
+
+			"website": "http://kaiostech.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Drawsum.zip",
+
+				"version": "1.1.5"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"KaiOS"
+
+			],
+
+			"maintainer": [
+
+				"KaiOS"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "drawsum",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "drawsum"
+
+		},
+
+       {
+
+			"name": "Tetris-X",
+
+			"description": "Tetris-X is a version of the classic game Tetris that challenges you to create complete lines by moving differently-shaped pieces.",
+
+			"icon": "https://vdspm.github.io/Server/icons/games/tetris-x.png",
+
+			"screenshots": [],
+
+			"website": "http://www.ensenasoft.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Games/Tetris-X.zip",
+
+				"version": "1.0.3"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Ensena Soft"
+
+			],
+
+			"maintainer": [
+
+				"Ensena Soft"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "tetris-x",
+
+				"categories": [
+
+					"games"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "tetris-x"
+
+		},
+
 		{
 
 			"name": "JioTV",
