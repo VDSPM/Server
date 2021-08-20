@@ -149,6 +149,26 @@
 
 		},
 
+                "system apps": {
+
+			"name": "System Apps",
+
+			"description": "Any model KaiOS Phone System apps",
+
+			"icon": "fas fa-wrench",
+
+			"locales": [
+
+				{
+
+					"en-IN": "System Apps"
+
+				}
+
+			]
+
+		},
+
 		"health": {
 
 			"name": "Health",
@@ -2959,6 +2979,7 @@
 			"slug": "custom launcher"
 
 		},
+
 		{
 
 			"name": "ThemeWhite-KaiOS",
@@ -3034,6 +3055,366 @@
 			"slug": "theme-white",
 
 			"screenshots": []
+
+		},
+
+	       {
+
+			"name": "Settings",
+
+			"description": "F320B Gaia Settings for other KaiOS Phone",
+
+			"icon": "https://vdspm.github.io/Server/icons/System/settings_112.png",
+
+			"screenshots": [],
+
+			"website": "https://www.jio.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/F320B Settings.zip",
+
+				"version": "2.5.3.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "settings",
+
+				"categories": [
+
+					"system apps"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "settings"
+
+		},
+
+       {
+
+			"name": "Internet",
+
+			"description": "Gaia System F320B Web Browser",
+
+			"icon": "https://vdspm.github.io/Server/icons/system/browser_112.png",
+
+			"screenshots": [],
+
+			"website": "",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/System/Internet.zip",
+
+				"version": "2.5"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "internet",
+
+				"categories": [
+
+					"system apps"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "internet"
+
+		},
+
+       {
+
+			"name": "Call Recording",
+
+			"description": "F320B Gaia Callrecording for other KaiOS Phone",
+
+			"icon": "https://vdspm.github.io/Server/icons/System/call_recorder_112.png",
+
+			"screenshots": [],
+
+			"website": "https://www.jio.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/F320B Call Recording.zip",
+
+				"version": "2.5.3.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "call recording",
+
+				"categories": [
+
+					"system apps"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "call recording"
+
+		},
+
+       {
+
+			"name": "Gallery",
+
+			"description": "F320B Gaia Gallery for other KaiOS Phone",
+
+			"icon": "https://vdspm.github.io/Server/icons/System/gallery_112.png",
+
+			"screenshots": [],
+
+			"website": "https://www.jio.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/F320B Gallery.zip",
+
+				"version": "2.5.3.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "gallery",
+
+				"categories": [
+
+					"system apps"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "gallery"
+
+		},
+
+       {
+
+			"name": "Music",
+
+			"description": "F320B Gaia Music for other KaiOS Phone",
+
+			"icon": "https://vdspm.github.io/Server/icons/System/music _112.png",
+
+			"screenshots": [],
+
+			"website": "https://www.jio.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/F320B Music.zip",
+
+				"version": "2.5.3.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "music",
+
+				"categories": [
+
+					"system apps"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "music"
+
+		},
+
+       {
+
+			"name": "File Manager",
+
+			"description": "F320B Gaia File Manager for other KaiOS Phone",
+
+			"icon": "https://vdspm.github.io/Server/icons/System/file_manager_112.png",
+
+			"screenshots": [],
+
+			"website": "https://www.jio.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/F320B File Manager.zip",
+
+				"version": "2.5.3.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "file manager",
+
+				"categories": [
+
+					"system apps"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "file manager"
 
 		},
 		
