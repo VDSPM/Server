@@ -3072,7 +3072,7 @@
 
 			"download": {
 
-				"url": "https://vdspm.github.io/Server/Apps/F320B Settings.zip",
+				"url": "https://vdspm.github.io/Server/Apps/System/F320B Settings.zip",
 
 				"version": "2.5.3.2"
 
@@ -3192,7 +3192,7 @@
 
 			"download": {
 
-				"url": "https://vdspm.github.io/Server/Apps/F320B Call Recording.zip",
+				"url": "https://vdspm.github.io/Server/Apps/System/F320B Call Recording.zip",
 
 				"version": "2.5.3.2"
 
@@ -3252,7 +3252,7 @@
 
 			"download": {
 
-				"url": "https://vdspm.github.io/Server/Apps/F320B Gallery.zip",
+				"url": "https://vdspm.github.io/Server/Apps/System/F320B Gallery.zip",
 
 				"version": "2.5.3.2"
 
@@ -3304,7 +3304,7 @@
 
 			"description": "F320B Gaia Music for other KaiOS Phone",
 
-			"icon": "https://vdspm.github.io/Server/icons/System/music _112.png",
+			"icon": "https://vdspm.github.io/Server/icons/System/music.png",
 
 			"screenshots": [],
 
@@ -3312,7 +3312,7 @@
 
 			"download": {
 
-				"url": "https://vdspm.github.io/Server/Apps/F320B Music.zip",
+				"url": "https://vdspm.github.io/Server/Apps/System/F320B Music.zip",
 
 				"version": "2.5.3.2"
 
@@ -3372,7 +3372,7 @@
 
 			"download": {
 
-				"url": "https://vdspm.github.io/Server/Apps/F320B File Manager.zip",
+				"url": "https://vdspm.github.io/Server/Apps/System/F320B File Manager.zip",
 
 				"version": "2.5.3.2"
 
