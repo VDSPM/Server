@@ -108,7 +108,26 @@
 			]
 
 		},
+		
+	    "lifestyle": {
 
+			"name": "Lifestyle",
+
+			"description": "Lifestyle apps",
+
+			"icon": "fas fa-cloud-life",
+
+			"locales": [
+
+				{
+
+					"en-IN": "Lifestyle"
+
+				}
+				
+			]
+
+		},
 		"utilities": {
 
 			"name": "Utilities",
@@ -2016,8 +2035,608 @@
 			"slug": "jionews"
 
 		},
-		
+
        {
+
+			"name": "Fake Call",
+
+			"description": "Simulate a fake call to rescue yourself from an awkward situation, like boring meeting, annoying conversation, meaningless interview...",
+
+			"icon": "https://vdspm.github.io/Server/icons/lifestyle/fakecall.png",
+
+			"screenshots": [],
+
+			"website": "http://valesios.github.io",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Lifestyle/Fake call.zip",
+
+				"version": "1.0.8"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Valesios"
+
+			],
+
+			"maintainer": [
+
+				"Valesios"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "fake call",
+
+				"categories": [
+
+					"lifestyle"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "fake call"
+
+		},
+
+        {
+
+			"name": "Sasha Wallpaper",
+
+			"description": "The pictures of Sasha Wallpaper will continue to increase and you can enjoy it.There are thousands of wallpapers to choose from, including multiple types of wallpapers, you can choose your favorite pictures, decorate your mobile phone desktop to your favorite style.",
+
+			"icon": "https://vdspm.github.io/Server/icons/lifestyle/sasha wallpaper.png",
+
+			"screenshots": [],
+
+			"website": "http://www.sasha-lab.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Lifestyle/sasha wallpaper.zip",
+
+				"version": "1.0.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"sashalab"
+
+			],
+
+			"maintainer": [
+
+				"sashalab"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "sasha wallpaper",
+
+				"categories": [
+
+					"lifestyle"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "sasha wallpaper"
+
+		},
+
+        {
+
+			"name": "Wallpaper Shop",
+
+			"description": "Personalize your phone with unique background options available from the Wallpaper Shop. Instantly transform your phone to fit your style and select from free and paid wallpapers, including beautiful landscapes, cuddly animals, action sports and cool cars.",
+
+			"icon": "https://vdspm.github.io/Server/icons/lifestyle/wallpaper shop.png",
+
+			"screenshots": [],
+
+			"website": "http://kaiostech.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Lifestyle/kaios.wallpaper-shop.org.zip",
+
+				"version": "0.7.1"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"KaiOS"
+
+			],
+
+			"maintainer": [
+
+				"KaiOS"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "wallpaper shop",
+
+				"categories": [
+
+					"lifestyle"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "wallpaper shop"
+
+		},
+
+        {
+
+			"name": "Simple File Manager",
+
+			"description": "File manager is an app that provides a user interface to manage files and folders. First File Manager for KaiOS",
+
+			"icon": "https://vdspm.github.io/Server/icons/lifestyle/simple file manager.png",
+
+			"screenshots": [],
+
+			"website": "http://ysirotenko.geekspace.info",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Lifestyle/Simple File Manager.zip",
+
+				"version": ""
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Yuriy Sirotenko"
+
+			],
+
+			"maintainer": [
+
+				"Yuriy Sirotenko"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "simple file manager",
+
+				"categories": [
+
+					"lifestyle"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "simple file manager"
+
+		},
+ 
+        {
+
+			"name": "Wallpapers Free",
+
+			"description": "Wallpapers Free",
+
+			"icon": "https://vdspm.github.io/Server/icons/lifestyle/wallpaper free.png",
+
+			"screenshots": [],
+
+			"website": "http://www.mobileappsltd.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Lifestyle/Wallpapers Free.zip",
+
+				"version": ""
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Mobile Apps Ltd"
+
+			],
+
+			"maintainer": [
+
+				"Mobile Apps Ltd"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "wallpaper free",
+
+				"categories": [
+
+					"lifestyle"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "wallpaper free"
+
+		},
+ 
+        {
+
+			"name": "Ringtones Free",
+
+			"description": "Ringtones Free",
+
+			"icon": "https://vdspm.github.io/Server/icons/lifestyle/ringtones free.png",
+
+			"screenshots": [],
+
+			"website": "",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Lifestyle/Free RingTones.zip",
+
+				"version": "http://www.mobileappsltd.com"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Mobile Apps Ltd"
+
+			],
+
+			"maintainer": [
+
+				"Mobile Apps Ltd"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "free ringtones",
+
+				"categories": [
+
+					"lifestyle"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "free ringtones"
+
+		},
+
+        {
+
+			"name": "Wallpaper Pro",
+
+			"description": "Wallpaper Pro brings for FREE the best wallpapers optimized for KaiOS devices. Choose your favorite image and easily put it as wallpaper and save it in the gallery. We separate wallpapers by category to make it easier for you to find.",
+
+			"icon": "https://vdspm.github.io/Server/icons/lifestyle/wallpaper pro.png",
+
+			"screenshots": [],
+
+			"website": "http://www.murilo.github.io",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Lifestyle/Wallpaper Pro.zip",
+
+				"version": "1.0.5"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Murilo Erhardt"
+
+			],
+
+			"maintainer": [
+
+				"Murilo Erhardt"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "wallpaper pro",
+
+				"categories": [
+
+					"lifestyle"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "wallpaper pro"
+
+		},
+
+        {
+
+			"name": "YoVi",
+
+			"description": "Short Video Community",
+
+			"icon": "https://vdspm.github.io/Server/icons/lifestyle/yovi.png",
+
+			"screenshots": [],
+
+			"website": "https://m.kwai.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Lifestyle/yovi.com.zip",
+
+				"version": "1.0.1"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"JOYO TECHNOLOGY PTE. LTD"
+
+			],
+
+			"maintainer": [
+
+				"JOYO TECHNOLOGY PTE. LTD"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "yovi",
+
+				"categories": [
+
+					"lifestyle"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "yovi"
+
+		},
+
+        {
+
+			"name": "UC Browser",
+
+			"description": "With UC Browser, you get a fast, all-in-one web experience so one is enough.",
+
+			"icon": "https://vdspm.github.io/Server/icons/lifestyle/uc browser.png",
+
+			"screenshots": [],
+
+			"website": "http://www.ucweb.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Lifestyle/www.ucweb.com.zip",
+
+				"version": "1.2.0"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"UCWeb Inc"
+
+			],
+
+			"maintainer": [
+
+				"UCWeb Inc"
+
+			],
+
+			"has_ads": true,
+
+			"has_tracking": true,
+
+			"meta": {
+
+				"tags": "uc browser",
+
+				"categories": [
+
+					"lifestyle"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "uc browser"
+
+		},
+
+        {
+
+			"name": "Xender",
+
+			"description": "Fast cross-platform file transfer and share App, Get video and music from android smartphone",
+
+			"icon": "https://vdspm.github.io/Server/icons/lifestyle/xender.png",
+
+			"screenshots": [],
+
+			"website": "http://www.xender.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Lifestyle/.zip",
+
+				"version": "2.1.6"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"xender"
+
+			],
+
+			"maintainer": [
+
+				"xender"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "xender",
+
+				"categories": [
+
+					"lifestyle"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "xender"
+
+		},
+		
+               {
 
 			"name": "MyJio",
 
