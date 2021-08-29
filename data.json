@@ -4095,8 +4095,66 @@
 
 			"slug": "pdfviewer"
 
+		},
+                {
+
+			"name": "Offline Dictionary",
+
+			"description": "Optimized for a fast & robust search experience. You can find the meanings of 100,000+ English words offline. This app is a part of our upcoming Flamingo Education Suite",
+
+			"icon": "https://vdspm.github.io/Server/icons/education/OfflineDictionary_112.png",
+
+			"screenshots": [],
+
+			"website": "https://codingpro.com.pk",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Education/Offline Dictionary.zip",
+
+				"version": "2.0.0"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Coding Pro - Pakistan"
+
+			],
+
+			"maintainer": [
+
+				"Coding Pro - Pakistan"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": true,
+
+			"meta": {
+
+				"tags": "offline dictionary",
+
+				"categories": [
+
+					"education"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "offline dictionary"
+
 		}
-		
 	]
 
 }
