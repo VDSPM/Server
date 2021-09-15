@@ -1975,7 +1975,67 @@
 			"slug": "facebook"
 
 		},
-		
+
+        {
+
+			"name": "Telegram",
+
+			"description": "Telegram for KaiOS",
+
+			"icon": "https://vdspm.github.io/Server/icons/social/telegram.png",
+
+			"screenshots": [],
+
+			"website": "https://github.com/zhukov",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Social/telegram_kaios.zip",
+
+				"version": "0.7.0"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Igor Zhukov"
+
+			],
+
+			"maintainer": [
+
+				"Igor Zhukov"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "telegram",
+
+				"categories": [
+
+					"lifestyle"
+
+				]
+
+			},
+
+			"fromstore": false,
+
+			"slug": "telegram"
+
+		},
+
        {
 
 			"name": "JioNews",
