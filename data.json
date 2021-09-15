@@ -2036,6 +2036,125 @@
 
 		},
 
+                {
+
+			"name": "TweetFit",
+
+			"description": "A fast and responsive Twitter App dedicated for KaiOS. Note: It is not an official app from Twitter, it uses the Twitter public API to retrieve user timeline.",
+
+			"icon": "https://vdspm.github.io/Server/icons/social/tweetfit.png",
+
+			"screenshots": [],
+
+			"website": "http://zhangqichuan.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Social/tweetfit.zip",
+
+				"version": "0.0.8"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Zhang Qichuan"
+
+			],
+
+			"maintainer": [
+
+				"Zhang Qichuan"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "tweetfit",
+
+				"categories": [
+
+					"social"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "tweetfit"
+
+		},
+
+                {
+
+			"name": "Google Duo",
+
+			"description": "The simple video calling app.",
+
+			"icon": "https://vdspm.github.io/Server/icons/social/google duo.png",
+
+			"screenshots": [],
+
+			"website": "https://duo.google.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Social/duo.google.com.zip",
+
+				"version": "1.0.0"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Google LLC"
+
+			],
+
+			"maintainer": [
+
+				"Google LLC"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "google duo",
+
+				"categories": [
+
+					"social"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "google duo"
+
+		},
        {
 
 			"name": "JioNews",
