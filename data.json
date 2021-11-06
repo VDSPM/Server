@@ -205,6 +205,24 @@
 			]
 
 		},
+	
+	        "sports": {
+
+			"name": "Sports",
+
+			"description": "LIVE Watch Cricket Score Play Live Cricket Game",
+
+			"locales": [
+
+				{
+
+					"en-IN": "Sports"
+
+				}
+				
+			]
+
+		},
 
 		"education": {
 
@@ -1730,51 +1748,23 @@
 
 		},
 
-		{
+                {
 
-			"name": "JioTV",
+			"name": "ZEE5",
 
-			"description": "JioTV provides 700+ Live TV channels and 7 days of Catch Up. It has useful features like hotkeys support for accessing various screens of the app and channels, marking channels and programs as favourites, search for channels, current, past and future programs.",
+			"description": "Download ZEE5 and enjoy unlimited Masala Movies, latest TV Show Episodes, daily News, spicy Music Videos & much more in the language of your choice! Get started NOW.",
 
-			"icon": "https://vdspm.github.io/Server/icons/jiotv/jiotv.png",
+			"icon": "https://vdspm.github.io/Server/icons/entertainment/zee5.png",
 
 			"screenshots": [],
 
+			"website": "https://www.zee5.com/",
+
 			"download": {
 
-				"url": "https://vdspm.github.io/Server/Apps/JioTV.zip",
+				"url": "https://vdspm.github.io/Server/Apps/Entertainment/zee5.zip",
 
-				"version": "1.6.6.4"
-
-			},
-
-			"author": [
-
-				"Jio"
-
-			],
-
-			"maintainer": [
-
-				"Jio"
-
-			],
-
-			"dependencies": [],
-
-			"has_tracking": true,
-
-			"has_ads": false,
-
-			"meta": {
-
-				"tags": "tv",
-
-				"categories": [
-
-					"entertainment"
-
-				]
+				"version": "1.4.1.5"
 
 			},
 
@@ -1784,13 +1774,41 @@
 
 			],
 
+			"author": [
+
+				"ZEE5"
+
+			],
+
+			"maintainer": [
+
+				"ZEE5"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "zee5",
+
+				"categories": [
+
+					"entertainment"
+
+				]
+
+			},
+
 			"fromstore": true,
 
-			"slug": "jiotv"
+			"slug": "zee5"
 
 		},
-		
-        {
+
+               {
 
 			"name": "YouTube",
 
@@ -1851,12 +1869,192 @@
 			"slug": "youtube"
 
 		},
+
+               {
+
+			"name": "JioSaavn",
+
+			"description": "Millions of HD songs in over 20 languages. Unmatched clarity. Unbeatable experience.",
+
+			"icon": "https://vdspm.github.io/Server/icons/entertainment/jiosaavn.png",
+
+			"screenshots": [],
+
+			"website": "http://www.jiosaavn.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Entertainment/JioSaavn.zip",
+
+				"version": "3.5.0.1"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "jiosaavn",
+
+				"categories": [
+
+					"entertainment"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jiosaavn"
+
+		},
+
+                {
+
+			"name": "JioCinema",
+
+			"description": "JioCinema is an on-demand video library from Reliance Projects and Property Management Services Limited (RPPMSL). We have over 1 lakh+ hours of exciting content: Movies, TV Shows, Music, Videos, Clips, Trailers for our viewers.",
+
+			"icon": "https://vdspm.github.io/Server/icons/entertainment/jiocinema.png",
+
+			"screenshots": [],
+
+			"website": "http://jio.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Entertainment/JioCinema.zip",
+
+				"version": "4.0.0.6"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio Media"
+
+			],
+
+			"maintainer": [
+
+				"Jio Media"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "jiocinema",
+
+				"categories": [
+
+					"entertainment"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jiocinema"
+
+		},
 		
+		{
+
+			"name": "JioTV",
+
+			"description": "JioTV provides 700+ Live TV channels and 7 days of Catch Up. It has useful features like hotkeys support for accessing various screens of the app and channels, marking channels and programs as favourites, search for channels, current, past and future programs.",
+
+			"icon": "https://vdspm.github.io/Server/icons/jiotv/jiotv.png",
+
+			"screenshots": [],
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/JioTV.zip",
+
+				"version": "1.6.6.4"
+
+			},
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"dependencies": [],
+
+			"has_tracking": true,
+
+			"has_ads": false,
+
+			"meta": {
+
+				"tags": "tv",
+
+				"categories": [
+
+					"entertainment"
+
+				]
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"fromstore": true,
+
+			"slug": "jiotv"
+
+		},
+
        {
 
 			"name": "WhatsApp",
 
-			"description": "W﻿h﻿a﻿t﻿s﻿A﻿p﻿p Messenger is a FREE messaging app available for JioPhone and other smartphones. W﻿h﻿a﻿t﻿s﻿A﻿p﻿p uses your phone's Internet connection (4G or Wi-Fi, as available) to let you message friends and family. Switch from SMS to W﻿h﻿a﻿t﻿s﻿A﻿p﻿p to send and receive messages, photos, videos, and Voice Messages.\n\n*Data charges may apply. Contact your provider for details.",
+			"description": "W﻿h﻿a﻿t﻿s﻿A﻿p﻿p Messenger is a FREE messaging app available for JioPhone and other smartphones. WhatssApp uses your phone's Internet connection (4G or Wi-Fi, as available) to let you message friends and family. Switch from SMS to W﻿h﻿a﻿t﻿s﻿A﻿p﻿p to send and receive messages, photos, videos, and Voice Messages.\n\n*Data charges may apply. Contact your provider for details.",
 
 			"icon": "https://vdspm.github.io/Server/icons/whatsapp/whatsapp.png",
 
@@ -1866,7 +2064,7 @@
 
 			"download": {
 
-				"url": "https://vdspm.github.io/Server/Apps/Whatsapp.zip",
+				"url": "https://vdspm.github.io/Server/Apps/Social/Whatsapp.zip",
 
 				"version": "2.2118.12.1"
 
@@ -1914,7 +2112,7 @@
 
 		},
 		
-       {
+                {
 
 			"name": "Facebook",
 
@@ -1928,7 +2126,7 @@
 
 			"download": {
 
-				"url": "https://vdspm.github.io/Server/Apps/Facebook.zip",
+				"url": "https://vdspm.github.io/Server/Apps/Social/Facebook.zip",
 
 				"version": "2.0.3.41"
 
@@ -1976,6 +2174,126 @@
 
 		},
 
+                {
+
+			"name": "Jio Chat",
+
+			"description": "JioChat helps you stay in touch with your friends and family. Send text messages, contacts, photos and video with ease. Enjoy daily video stories.",
+
+			"icon": "https://vdspm.github.io/Server/icons/social/jiochat.png",
+
+			"screenshots": [],
+
+			"website": "https://www.jio.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Social/JioChat.zip",
+
+				"version": "2.1.80.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "jiochat",
+
+				"categories": [
+
+					"social"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jiochat"
+
+		},
+		
+        {
+
+			"name": "Jio VideoCall",
+
+			"description": "Video calling made easy with JioVideoCall. Now, group call your loved ones on JioPhone or smartphones on audio conference rooms. Enjoy daily new videos on movies, food, travel, fitness and more in Stories section.",
+
+			"icon": "https://vdspm.github.io/Server/icons/social/jiocall.png",
+
+			"screenshots": [],
+
+			"website": "https://www.jio.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Social/Jio Call.zip",
+
+				"version": "1.3.83.3"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "Jio VideoCall",
+
+				"categories": [
+
+					"social"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jiocall"
+
+		},
+	
         {
 
 			"name": "Telegram",
@@ -2155,7 +2473,68 @@
 			"slug": "google duo"
 
 		},
-       {
+
+        {
+
+			"name": "JioChannels",
+
+			"description": "Connect with your favourite brands","subtitle":"Connect with your favourite brands",
+
+			"icon": "https://vdspm.github.io/Server/icons/social/jiochannel.png",
+
+			"screenshots": [],
+
+			"website": "http://www.jiochat.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Social/JioChannels.zip",
+
+				"version": "3.0.70.9"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "jiochannel",
+
+				"categories": [
+
+					"education"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jiochannel"
+
+		},
+
+               {
 
 			"name": "JioNews",
 
@@ -2814,7 +3193,262 @@
 			"slug": "xender"
 
 		},
-		
+
+               {
+
+			"name": "Jio Weather",
+
+			"description": "Stay alert with Weather information",
+
+			"icon": "https://vdspm.github.io/Server/icons/utilities/jioweather.png",
+
+			"screenshots": [],
+
+			"website": "http://jioweather.jio.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Utilities/Jio Weather.zip",
+
+				"version": "1.0.5.6"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "jio weather",
+
+				"categories": [
+
+					"utilities"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jio weather"
+
+		},
+
+        {
+
+			"name": "Assistant",
+
+			"description": "The Google Assistant for Jio allows you to quickly access your Google Assistant from the JioPhone’s main menu. Check if you need to take an umbrella when you leave home, make calls hands free during your commute, and unwind by playing your favorite tunes. You personal Google is here to help. Ask questions and get things done. Use it anytime, anywhere.",
+
+			"icon": "https://vdspm.github.io/Server/icons/utilities/assistant.png",
+
+			"screenshots": [],
+
+			"website": "http://google.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Utilities/Google Assistant.zip",
+
+				"version": "3.10.0"
+
+			},
+
+			"locales": [
+
+				"English",
+				
+				"Tamil",
+				
+				"Telugu",
+
+				"Kannada",
+				
+				"Hindi",
+				
+				"Bengali",
+
+				"Gujarati",
+				
+				"Marathi"
+				
+
+			],
+
+			"author": [
+
+				"Google"
+
+			],
+
+			"maintainer": [
+
+				"Google"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "Google Assistant",
+
+				"categories": [
+
+					"utilities"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "Google Assistant"
+
+		},
+
+        {
+
+			"name": "JioCloud",
+
+			"description": "Jio offers you a secure cloud storage to keep all your phone photos, videos and contacts organized at one place. JioCloud Automatically backup or manually upload your files to JioCloud to access anywhere.",
+
+			"icon": "https://vdspm.github.io/Server/icons/utilities/jiocloud.png",
+
+			"screenshots": [],
+
+			"website": "https://www.jiocloud.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Utilities/JioCloud.zip",
+
+				"version": "2.0.0.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Maninder Singh Rajpal / Sachin Senger"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "jiocloud",
+
+				"categories": [
+
+					"utilities"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jiocloud"
+
+		},
+
+        {
+
+			"name": "JioSwitch",
+
+			"description": "Transfer data between JioPhone and Android/iOS.",
+
+			"icon": "https://vdspm.github.io/Server/icons/utilities/jioswitch.png",
+
+			"screenshots": [],
+
+			"website": "https://www.switchnwalk.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Utilities/JioSwitch.zip",
+
+				"version": "1.0.18.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"JioSwitch Team"
+
+			],
+
+			"maintainer": [
+
+				"JioSwitch Team"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "jioswitch",
+
+				"categories": [
+
+					"utilities"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jioswitch"
+
+		},
+	
                {
 
 			"name": "MyJio",
@@ -2935,29 +3569,25 @@
 
 		},
 
-		{
+               {
 
-			"name": "Intent",
+			"name": "JioHelpline",
 
-			"description": "Intent Toolbox",
+			"description": "Connect to JioCare",
 
-			"icon": "https://storedb.opengiraffes.top/icons/intent.png",
+			"icon": "https://vdspm.github.io/Server/icons/utilities/jiohelpline.png",
 
 			"screenshots": [],
 
-			"website": "https://github.com/Lcsunm/Intent-KaiOS",
-
-			"git_repo": "https://github.com/Lcsunm/Intent-KaiOS",
+			"website": "https://www.jio.com",
 
 			"download": {
 
-				"url": "https://git.yumenaka.net/https://github.com/Lcsunm/Intent-KaiOS/releases/download/v0.1.3/intent-omnisd-nightly.zip",
+				"url": "https://vdspm.github.io/Server/Apps/Utilities/JioHelpline.zip",
 
-				"version": "0.1.3"
+				"version": ""
 
 			},
-
-			"type": "certified",
 
 			"locales": [
 
@@ -2965,33 +3595,17 @@
 
 			],
 
-			"license": "MIT",
-
 			"author": [
 
-				"Lcsunm"
+				"Jio"
 
 			],
 
 			"maintainer": [
 
-				"Lcsunm"
+				"Jio"
 
 			],
-
-			"dependencies": [
-
-				{
-
-					"name": "Test",
-
-					"url": "https://github.com/Lcsunm/Intent-KaiOS"
-
-				}
-
-			],
-
-			"donation": null,
 
 			"has_ads": false,
 
@@ -2999,7 +3613,7 @@
 
 			"meta": {
 
-				"tags": "intent",
+				"tags": "jiohelpline",
 
 				"categories": [
 
@@ -3009,71 +3623,49 @@
 
 			},
 
-			"fromstore": false,
+			"fromstore": true,
 
-			"slug": "intent"
+			"slug": "JioHelpline"
 
 		},
 
-		{
+        {
 
-			"name": "KaiAuth",
+			"name": "JioAttendance",
 
-			"description": "Simple Google Authenticator alternative",
+			"description": "JioAttendance is a fast and easy way to enable your employees to mark their attendance from their mobile. If you want to buy this for your organization then send your organization details with Contact person name, Mobile no, Email id and address to enterprisecare@jio.com.",
 
-			"icon": "https://storedb.opengiraffes.top/icons/kaiauth.png",
+			"icon": "https://vdspm.github.io/Server/icons/utilities/jioattendance.png",
 
-			"screenshots": [
+			"screenshots": [],
 
-				"https://storedb.opengiraffes.top/icons/kaiauth/screenshot0.png",
-
-				"https://storedb.opengiraffes.top/icons/kaiauth/screenshot1.png",
-
-				"https://storedb.opengiraffes.top/icons/kaiauth/screenshot2.png"
-
-			],
-
-			"website": "https://kaiauth.zjyl1994.com",
-
-			"git_repo": "https://github.com/zjyl1994/KaiAuth",
+			"website": "https://jioattendance.jio.com",
 
 			"download": {
 
-				"url": "https://git.yumenaka.net/https://github.com/zjyl1994/KaiAuth/releases/download/v1.1.1/kaiauth-v1.1.1-omnisd.zip",
+				"url": "https://vdspm.github.io/Server/Apps/Utilities/JioAttendance.zip",
 
-				"version": "1.1.1"
+				"version": "2.1.7.2"
 
 			},
 
-			"type": "privileged",
-
 			"locales": [
-
-				"中文(简体)",
-
-				"中文(繁體)",
 
 				"English"
 
 			],
 
-			"license": "MIT",
-
 			"author": [
 
-				"zjyl1994 <me@zjyl1994.com>"
+				"Jio"
 
 			],
 
 			"maintainer": [
 
-				"zjyl1994 <me@zjyl1994.com>"
+				"Jio"
 
 			],
-
-			"dependencies": [],
-
-			"donation": "https://www.buymeacoffee.com/zjyl1994",
 
 			"has_ads": false,
 
@@ -3081,7 +3673,7 @@
 
 			"meta": {
 
-				"tags": "2fa; totp; authenticator",
+				"tags": "jioattendance",
 
 				"categories": [
 
@@ -3091,13 +3683,13 @@
 
 			},
 
-			"fromstore": false,
+			"fromstore": true,
 
-			"slug": "kaiauth"
+			"slug": "jioattendance"
 
 		},
 
-       {
+               {
 
 			"name": "F320b Homescreen",
 
@@ -4215,8 +4807,188 @@
 			"slug": "file manager"
 
 		},
-		
+
+        {
+
+			"name": "JioHealthHub",
+
+			"description": "JioHealthHub is your one-stop health solution. Now get full body check-ups, consultations and much more without leaving the comfort of your home. JioHealthHub allows you to securely store all your medical records in one place.",
+
+			"icon": "https://vdspm.github.io/Server/icons/health/jiohealthhub.png",
+
+			"screenshots": [],
+
+			"website": "http://jiohh.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Health/JioHealthHub.zip",
+
+				"version": "2.0.0.2"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"HealthHub Team"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "jiohealthhub",
+
+				"categories": [
+
+					"health"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jiohealthhub"
+
+		},
+
        {
+
+			"name": "Cricketnext",
+
+			"description": "If you are in love with cricket then Cricketnext is your one-stop destination. For the fastest updates, live ball-by-ball commentary, 360 degree analysis and everything that you want to know about your favorite cricketers. Download the Cricketnext app.",
+
+			"icon": "https://vdspm.github.io/Server/icons/sports/cricketnext.png",
+
+			"screenshots": [],
+
+			"website": "http://www.network18online.com/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Sports/Cricketnext.zip",
+
+				"version": "1.1.0.1"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Network18"
+
+			],
+
+			"maintainer": [
+
+				"Network18"
+
+			],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "cricketnext",
+
+				"categories": [
+
+					"sports"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "cricketnext"
+
+		},
+
+                {
+
+			"name": "Jio Cricket",
+
+			"description": "JioCricket is the only app in the JioPhone Appstore which deals with everything and anything on Cricket. It is a one stop cricket destination for the Jio Audience, where users will find all the cricket related content and be able to play Jio Cricket Play Along during the live cricket matches and be able to win prizes. They will predict ball by ball and earn points to move up on the leader board and earn exciting gifts and coupons. Apart from the match, there is a lot of cricket content to read and watch. Users can even indulge in offline cricket games to earn additional points/powers which can be used while playing the live cricket games to score big and move up the leader board and win exciting prizes.",
+
+			"icon": "https://vdspm.github.io/Server/icons/sports/jiocricket.png",
+
+			"screenshots": [],
+
+			"website": "http://www.jio.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Sports/JioCricket.zip",
+
+				"version": "1.4.0.4"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Jio"
+
+			],
+
+			"maintainer": [
+
+				"Jio"
+
+			],
+
+			"has_ads": true,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "jiocricket",
+
+				"categories": [
+
+					"sports"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "jiocricket"
+
+		},
+	 	
+                {
 
 			"name": "PDFViewer",
 
