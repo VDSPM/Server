@@ -4987,7 +4987,127 @@
 			"slug": "jiocricket"
 
 		},
-	 	
+
+        {
+
+			"name": "Enguru",
+
+			"description": "Learn Spoken English",
+
+			"icon": "https://vdspm.github.io/Server/icons/education/enguru.png",
+
+			"screenshots": [],
+
+			"website": "http://www.enguruapp.com",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Education/Enguru.zip",
+
+				"version": "1.6.1.3"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Kings Learning India Pvt Ltd"
+
+			],
+
+			"maintainer": [
+
+				"Kings Learning India Pvt Ltd"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "enguru",
+
+				"categories": [
+
+					"education"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "enguru"
+
+		},
+
+                {
+
+			"name": "Wikipedia",
+
+			"description": "With the free Wikipedia app, search and explore information from all over the world in 300+ languages.",
+
+			"icon": "https://vdspm.github.io/Server/icons/education/wikipedia.png",
+
+			"screenshots": [],
+
+			"website": "https://wikimediafoundation.org/",
+
+			"download": {
+
+				"url": "https://vdspm.github.io/Server/Apps/Education/Wikipedia.zip",
+
+				"version": "1.0.0.1232"
+
+			},
+
+			"locales": [
+
+				"English"
+
+			],
+
+			"author": [
+
+				"Wikimedia Foundation"
+
+			],
+
+			"maintainer": [
+
+				"Wikimedia Foundation"
+
+			],
+
+			"has_ads": false,
+
+			"has_tracking": false,
+
+			"meta": {
+
+				"tags": "wikipedia",
+
+				"categories": [
+
+					"education"
+
+				]
+
+			},
+
+			"fromstore": true,
+
+			"slug": "wikipedia"
+
+		},
+
                 {
 
 			"name": "PDFViewer",
